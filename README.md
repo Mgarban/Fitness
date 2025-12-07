@@ -32,3 +32,4 @@ Backend	                            Node.js + Express
 Database	                          MongoDB
 ORM	                                Prisma
 Auth                              	JWT + Google OAuth
+
